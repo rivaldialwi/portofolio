@@ -1,6 +1,31 @@
+.fs-7{
+font-size: 14px;
+}
 /* Navbar */
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link:active {
  color: #0d6efd;
 }
 /* Tutup Navbar */
+
+/* Header */
+.header-section .header-skill{
+color: #000;
+}
+
+.header-section .header-skill:hover{
+color: #0d6efd;
+}
+
+.header-section .header-skill i{
+transition: .3s;
+}
+
+.header-section .header-skill i:hover{
+transform: rotate(-45deg);
+}
+
+.header-section .header-img{
+width: 90%;
+}
+/* Tutup Header */
