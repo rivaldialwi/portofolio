@@ -1,0 +1,6 @@
+/* Navbar */
+.navbar .nav-item .nav-link:hover,
+.navbar .nav-item .nav-link:active {
+ color: #0d6efd;
+}
+/* Tutup Navbar */
